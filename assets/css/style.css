@@ -1,0 +1,105 @@
+.background_a {
+	BACKGROUND-COLOR: #CCFFCC
+}
+.background_b {
+	BACKGROUND-COLOR: #339900; 	FONT-WEIGHT: normal; FONT-SIZE: xx-small; COLOR: #333333; FONT-FAMILY: Verdana, Arial, helvetica, sans-serif; TEXT-DECORATION: none
+
+}
+.menu-on {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #1195BB; FONT-FAMILY: Verdana, Arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.menu-up {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #1195BB; FONT-FAMILY: Verdana, Arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.menu {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: verdana; TEXT-DECORATION: none
+}
+A.link {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; COLOR: #005d90; TEXT-DECORATION: none
+}A.link:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; COLOR: #005d90; TEXT-DECORATION: underline
+}
+.bodysmall {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 10px; PADDING-BOTTOM: 0px; COLOR: #333333; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, helvetica, sans-serif
+}
+
+.border {
+	BORDER-RIGHT: #CCCCCC 1px solid; BORDER-TOP: #CCCCCC 1px solid; BORDER-LEFT: #CCCCCC 1px solid; BORDER-BOTTOM: #CCCCCC 1px solid
+}
+
+.borderb2 {
+	BORDER-TOP: #8F8F8F 1px solid; BORDER-BOTTOM: #8F8F8F 1px solid
+	}
+.border3 {
+	BORDER-RIGHT: #993400 1px solid; BORDER-TOP:#993400 1px solid; BORDER-LEFT: #993400 1px solid; BORDER-BOTTOM: #993400 1px solid
+	}
+.border4 {
+	BORDER-TOP: #E9E9E9 1px solid; BORDER-BOTTOM: #E9E9E9 1px solid
+	}
+.border5 {
+	BORDER-TOP: #8F8F8F 1px solid
+	}
+.border6 {
+	BORDER-TOP: #D6D6D6 1px solid
+	}
+.border2 {
+	BORDER-RIGHT: #D6D6D6 1px solid
+	}
+
+.border23 {
+	BORDER-LEFT: #D6D6D6 1px solid
+	}
+	
+.bannertext {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, helvetica, sans-serif;
+}
+.footer {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: Verdana, Arial, helvetica, sans-serif; text-decoration:none
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: #993400; FONT-FAMILY: Verdana, Arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.textonly {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #8F8F8F; FONT-FAMILY: Verdana, Arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.textonly3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #767676; FONT-FAMILY: Verdana, Arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.textonly2{
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #993400; FONT-FAMILY: Verdana, Arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.textonly5 {
+	FONT-WEIGHT: normal; FONT-SIZE: x-small; COLOR: #000000; FONT-FAMILY: Verdana, Arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.department {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-align: center;
+}
+
+.allborderspadding {
+	BORDER-RIGHT: #cccccc 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #cccccc 1px solid
+}
+
+.noborderpadding {
+	BORDER-RIGHT: #cccccc 1px; PADDING-RIGHT: 2px; BORDER-TOP: #cccccc 1px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: #cccccc 1px; COLOR: #000000; PADDING-TOP: 2px; BORDER-BOTTOM: #cccccc 1px
+}
+.textField {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+.department2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+}
